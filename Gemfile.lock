@@ -100,7 +100,7 @@ DEPENDENCIES
   shotgun
   sinatra
   sinatra-activerecord
-  sqlite3 (~> 1.4)
+  sqlite3
   thin
 
 BUNDLED WITH
